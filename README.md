@@ -10,4 +10,4 @@ What has been done so far:
 - Baseline training started
 
 The end goal:
-![Alt text](mission%20accomplished.webp)
+![Alt text](mission_accomplished.jpeg)
