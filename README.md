@@ -2,12 +2,15 @@
 ### Because you are willing to go around the world for your citizens...twice!
 ![Alt text](government720%20(2).jpg)
 
-This is intended to be my PhD dissertation project available to the public here on GitHub. Federated learning system designed to measure government satisfaction.
-First dissertation paper expected to be submitted to the AAAI AIES Conference on AI, Ethics, and Society by 5/14/25.
+This was my former dissertation project idea, which I have made available to the public here on GitHub. This was a federated learning system designed to continuously measure government satisfaction utilizing 12 unique client datasets spanning from January 2000 to December 2024. If you are anyone in government or academia who is interested in contributing to or helping complete this project, kindly direct message me on LinkedIn: https://www.linkedin.com/in/catherine-donner-bb9104190/.
 
 What has been done so far:
 - Dataset compilation
-- Baseline training started
+- Training comparison analysis between centralized, federated, and split learning
+
+Future analyses to include:
+- Explainable AI
+- Backdoor & membership inference attacks on dataset
 
 The end goal:
 ![Alt text](mission_accomplished.jpeg)
